@@ -4,7 +4,7 @@ const dados = [
   {
     title: "(Eu)",
     data: [
-      "08h30: Reunião 'Daily'",
+      "09h30: Reunião 'Daily'",
       "14h00: Reunião com cliente Carros & Carros",
       "16h30: Prazo final Projeto X",
     ],
@@ -13,7 +13,7 @@ const dados = [
     title: "Jurema (chefe)",
     data: [
       "09h30: Reunião 'Daily'",
-      "12h00: Almoço com o diretor",
+      "12h00: Almoço com a diretoria",
       "15h00: Saída viagem",
     ],
   },
